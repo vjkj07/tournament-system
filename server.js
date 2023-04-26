@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const app = express();
-const PORT = 3000; // or any other port you prefer
+const PORT = 3000;
 
 // Connect to MongoDB database
 mongoose.connect('mongodb://localhost/tournament', {
