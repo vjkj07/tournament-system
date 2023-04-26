@@ -1,0 +1,14 @@
+# Tournament
+
+Build an app which create tournament.
+---
+## Requirements
+
+For development, you will only need Node.js and a node global package.
+
+$ npm install npm -g
+
+## Install
+$ git clone https://github.com/vjkj07/tournament-system
+$ cd tornament-system
+$ npm start
